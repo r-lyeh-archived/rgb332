@@ -3,7 +3,7 @@ rgb332
 
 - A custom uniform RGB332 palette.
 - See internal details on `rgb332.cpp` file.
-- BOOST licensed.
+- zlib/libpng licensed.
 
 image comparison
 ----------------
